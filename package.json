@@ -27,4 +27,11 @@
     "stylelint": "16.24.0",
     "stylelint-config-standard": "39.0.0"
   }
+  {
+  "id" : "adobe",
+  "containerId: "widgets",
+  "tittle" : "Adobe",
+  "environment" : ["edit","dev"],
+  "url" : "https://www.adobe.com/home"
+}
 }
