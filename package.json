@@ -29,7 +29,6 @@
   }
   {
   "id" : "adobe",
-  "containerId: "widgets",
   "tittle" : "Adobe",
   "environment" : ["edit","dev"],
   "url" : "https://www.adobe.com/home"
